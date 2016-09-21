@@ -1,0 +1,19 @@
+{
+  "name": "lesson3b",
+  "version": "1.0.0",
+  "description": "\"test\"",
+  "main": "Numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmattdunn/Comp1004-F2016-Lesson3b.git"
+  },
+  "author": "ben dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmattdunn/Comp1004-F2016-Lesson3b/issues"
+  },
+  "homepage": "https://github.com/benmattdunn/Comp1004-F2016-Lesson3b#readme"
+}
